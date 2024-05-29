@@ -1,3 +1,5 @@
 # Logic
 
-## More about logic
+## More about Logic
+
+## Additional Logic
